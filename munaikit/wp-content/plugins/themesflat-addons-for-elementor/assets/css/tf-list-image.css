@@ -6,8 +6,8 @@
 }
 .tf-list-image .box-item {
     position: relative;
-    -webkit-animation: slide-har 30s linear infinite;
-    animation: slide-har 30s linear infinite;
+    -webkit-animation: slide-har 60s linear infinite;
+    animation: slide-har 60s linear infinite;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
